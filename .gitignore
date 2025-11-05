@@ -2,3 +2,5 @@
 *.pdf
 *.txt
 /videos
+.DS_Store
+/lecture_notes
